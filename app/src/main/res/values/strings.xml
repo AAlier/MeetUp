@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+
+    <string name="API_KEY">d024542b5464c7b14fc7c8b7a5603f7a</string>
+
+    <string name="bishkek">Bishkek</string>
+    <string name="london">London</string>
+    <string name="sydney">Sydney</string>
+
+    <string name="error">Error occurred while sending request.</string>
+    <string name="show_more">Show more</string>
+    <string name="last_update">Last update: %1s</string>
+    <string name="celsius">%1s °C</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+</resources>
